@@ -6,10 +6,10 @@ This is a simple web-based counter that allows users to increment and save the n
 ## Project Structure
 All files are in the same(root) directory.
 
-- index.html: The main HTML file that structures the counter interface.
-- index.js: The JavaScript file that handles the functionality of the counter, including incrementing the count and saving previous entries.
-- index.css: The CSS file for styling the counter and the page layout.
-- libel-suit-rg.otf: A font file.
+**index.html:** &nbsp; The main HTML file that structures the counter interface.<br>
+**index.js:** &nbsp; The JavaScript file that handles the functionality of the counter, including incrementing the count and saving previous entries.<br>
+**index.css:** &nbsp; The CSS file for styling the counter and the page layout.<br>
+**libel-suit-rg.otf:** &nbsp; A font file.<br>
 
 ## Usage
 
